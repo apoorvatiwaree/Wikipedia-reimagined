@@ -3,19 +3,21 @@
 
 As part of **Redesign Your Favorite Website,GHW Day 5 Challenge**, I chose Wikipedia. 
 
-New Suggested features : 
-Less Cluttered Interface
-Easy Navigation 
-Reducing verbosity, by highlighting the significant information
-Custom colour changing backdrop depending on articles
-Different Widgets for different topics
+<h3>New Suggested features : </h3>
+<ul>
+<li>Less Cluttered Interface </li>
+<li>Easy Navigation </li>
+<li>Reducing verbosity, by highlighting the significant information </li>
+<li>Custom colour changing backdrop depending on articles</li>
+<li>Different Widgets for different topics</li>
+</ul>
 
-Screenshots : 
+<h1>Screenshots : <h1>
 <h2>Homepage</h2>
-![1](https://user-images.githubusercontent.com/77736746/190396550-ad0f6e8c-8fb4-41eb-8d82-21007c2318ac.jpg)
----------------
+<img src = "https://user-images.githubusercontent.com/77736746/190401863-17fde4d0-9e6e-4ced-a42d-c7652d917771.jpg" >
+
 <h2>Main Article Directory</h2>
-![2](https://user-images.githubusercontent.com/77736746/190396557-388d9d98-65e4-418d-95c2-e44d0fe01aef.jpg)
------------------
+<img src = "https://user-images.githubusercontent.com/77736746/190396557-388d9d98-65e4-418d-95c2-e44d0fe01aef.jpg" >
+
 <h2>Specific Topic Widget</h2>
-![3](https://user-images.githubusercontent.com/77736746/190396568-ada50938-6ca8-4687-a866-b91bfd9a4d21.jpg)
+<img src = "https://user-images.githubusercontent.com/77736746/190396568-ada50938-6ca8-4687-a866-b91bfd9a4d21.jpg" >
